@@ -1,6 +1,6 @@
 # Projeto G2 Desenvolvimento Web
 Feito em HTML, CSS e Javascript.
-# Membros (Cleber Trindade, Gabriel Flores, Kauã Segabinazzi)
+# Membros (Cleber Trindade, Gabriel Flores, Kaua Segabinazzi)
 # Colaboradores (Felipe Ronzani, Guilherme Tramontin, Yuri Machado)
 Projeto desenvolvido na Universidade La Salle na cadeira de Desenvolvimento Web em conjunto com a cadeira de Laboratório de Engenharia de Software.
 # Este projeto tem como objetivo desenvolver um site sobre qualquer tema de interesse dos alunos, atingindo alguns objetivos:
